@@ -22,3 +22,7 @@ If you find a bug, please open an Issue and provide:
 - Steps to reproduce
 - Expected behavior
 - Actual behavior
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8426f0c (docs: add contributing guide and templates)
